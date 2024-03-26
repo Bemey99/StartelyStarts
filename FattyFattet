@@ -1,5 +1,5 @@
 local UILibrary =
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/twink"))()
+    loadstring(game:HttpGet("https://raw.gercontent.com/bloodball/-back-ups-for-libs/main/twink"))()
 
 function Chat(NovaPurge)
     game.Players:Chat(NovaPurge)
